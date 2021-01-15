@@ -4,7 +4,12 @@
 
 坐标系部落博客专注初中信息技术课程研究，Python编程学习，信息学奥赛c++学习，分享初中信息技术教学知识，电脑知识，与广大信息技术教师共同学习进步。
 
-### Markdown
+### C++典型例题讲解
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+信息学奥赛、CSP-J/S认证，C++编程语言学习资料...
 
+[阅读更多](http://www.zbxx.net/tag/c-programming) 
+
+### 介绍
+
+[阅读更多](./about.html) 
