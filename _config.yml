@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+auto: true
+---
+layout: post
+title: "Jekyll语法简单笔记"
+description: ""
+category: articles
+tags: [Blog]
+comments: true
+---
