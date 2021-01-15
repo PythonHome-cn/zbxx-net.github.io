@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [坐标系部落的GitHub]
+description: [初中信息技术教师的博客]
+show_downloads: true
+google_analytics:
