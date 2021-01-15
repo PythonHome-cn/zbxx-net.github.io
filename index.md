@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 欢迎来到“坐标系部落”的GitHub
 
-You can use the [editor on GitHub](https://github.com/zbxx-net/zbxx-net.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+你可以通过 [坐标系部落](http://www.zbxx.net) 访问我的站点。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+坐标系部落博客专注初中信息技术课程研究，Python编程学习，信息学奥赛c++学习，分享初中信息技术教学知识，电脑知识，与广大信息技术教师共同学习进步。
 
 ### Markdown
 
